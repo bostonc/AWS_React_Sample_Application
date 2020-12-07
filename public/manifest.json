@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ChrisBoston.info",
+  "name": "ChrisBoston.info - Sample React Website for AWS Amplify",
   "icons": [
     {
       "src": "favicon.ico",
